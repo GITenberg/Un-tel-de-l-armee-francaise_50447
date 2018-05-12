@@ -1,10 +1,16 @@
 _repo: Un-tel-de-l-armee-francaise_50447
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50447-h/images/cover.jpg
 creator:
   author:
     agent_name: Franconi, Gabriel Tristan
     gutenberg_agent_id: '45908'
     url: http://www.gutenberg.org/2009/agents/45908
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50447#Un-tel-de-l-armee-francaise
 gutenberg_bookshelf:
 - FR Guerres
 - FR Nouveautés
